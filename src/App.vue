@@ -11,7 +11,7 @@
 #app {
   width: 100vw;
   height: 100vh;
-  background: #020308;
+  /* background: #020308; */
   overflow: hidden;
 }
 </style>
